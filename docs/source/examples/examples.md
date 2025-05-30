@@ -33,6 +33,7 @@ ZNE and Pauli Twirling with Cirq: ZNE with Noise Tailoring <pt_zne.md>
 ZNE with circuit compilation: UCC + Mitiq <ucc.md>
 LRE vs ZNE: comparing performance and overhead <lre-zne-comparison.md>
 PEC on a Braket simulator: Mirror circuits <pec_tutorial.md>
+PEC on IBM Quantum backends with Qiskit: Mirror circuits <pec_ibm_backends.md>
 PEC with Cirq: Learning representations <learning-depolarizing-noise.md>
 Classical Shadows with Cirq: State Reconstruction and Observable Estimation <shadows_tutorial.md>
 Robust Shadow Estimation with Cirq: Pauli Twirling Calibration of Classical Shadows <rshadows_tutorial.md>
