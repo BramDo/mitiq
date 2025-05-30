@@ -436,6 +436,7 @@ nbsphinx_thumbnails = {
     "examples/simple-landscape-pennylane": "_static/simple-landscape-pln.png",
     "examples/learning-depolarizing-noise": "_static/learn-depolarizing.png",
     "examples/pec_tutorial": "_static/pec-tutorial.png",
+    "examples/pec_ibm_backends": "_static/ibmq-gate-map.png",
     "examples/scaling": "_static/scaling.png",
     "examples/shadows_tutorial": "_static/shadow-tutorial.png",
     "examples/rshadows_tutorial": "_static/rshadow_protocol.png",
